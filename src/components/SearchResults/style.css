@@ -1,0 +1,27 @@
+
+.col {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+    
+  }
+  
+  img  {
+    height: 200px;
+    width: 200px;
+    
+  }
+  
+  .emp {
+    border: 5px solid #0b0033;
+    margin:4px;
+  }
+  
+  .entry {
+    padding-top: 50px;
+  }
+  
+  .rowentry {
+    background: #d8e0fa
+  }
