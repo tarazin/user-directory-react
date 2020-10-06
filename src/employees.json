@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNzE0OTU0MV5BMl5BanBnXkFtZTgwNzEzMjk4MzI@._V1_SY1000_CR0,0,1459,1000_AL_.jpg",
+      "phone": "202-295-1234",
+      "email": "great.scott @dundermifflin .com",
+      "dob": "03-15-1965"
+    },
+    {
+      "id": 2,
+      "name": "Jim Halpert",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQwMDk5NTE1OF5BMl5BanBnXkFtZTgwMTU2MDM1NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "phone": "202-295-1235",
+      "email": "jim.tuna @dundermifflin .com",
+      "dob": "05-29-1978"
+    },
+    {
+      "id": 3,
+      "name": "Pam Beesly",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUyZjA5ZTEtMjhkMi00MjFjLThjODEtYjVmMWVlZDEzZGQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "phone": "202-295-1236",
+      "email": "pam.beesly @dundermifflin .com",
+      "dob": "09-12-1979"
+    },
+    {
+      "id": 4,
+      "name": "Dwight Schrute",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDMxMjg1MV5BMl5BanBnXkFtZTgwNTk4MjU1MjE@._V1_.jpg",
+      "phone": "202-295-1237",
+      "email": "dwight.battlestar @dundermifflin .com",
+      "dob": "07-04-1976"
+    },
+    {
+      "id": 5,
+      "name": "Kelly Kapoor",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5Mjk4NzI5NF5BMl5BanBnXkFtZTcwOTcwNjIwMg@@._V1_.jpg",
+      "phone": "202-295-1238",
+      "email": "kelly.howdareU @dundermifflin .com",
+      "dob": "12-12-1988"
+    },
+    {
+      "id": 6,
+      "name": "Phyllis Vance",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1Njc3MTY2N15BMl5BanBnXkFtZTcwOTg1MDY2MQ@@._V1_.jpg",
+      "phone": "202-295-1239",
+      "email": "phyllis.vance @dundermifflin .com",
+      "dob": "02-06-1966"
+    },
+    {
+      "id": 7,
+      "name": "Kevin Malone",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyOTg1MTI3Nl5BMl5BanBnXkFtZTcwMjk1MDY2MQ@@._V1_.jpg",
+      "phone": "202-295-1240",
+      "email": "kevin.chili @dundermifflin .com",
+      "dob": "04-30-1978"
+    },
+    {
+      "id": 8,
+      "name": "Tobby Flenderson",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMjQ1MTUxNl5BMl5BanBnXkFtZTcwMzk1MDY2MQ@@._V1_.jpg",
+      "phone": "202-295-1241",
+      "email": "tobby @dundermifflin .com",
+      "dob": "07-14-1967"
+    },
+    {
+      "id": 9,
+      "name": "Darryl Philbin",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmMzZDI2M2UtZmI5ZC00MzM2LWI0ZTEtYmQwMGVjNjFkZWYwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_SX1500_AL_.jpg",
+      "phone": "202-295-1242",
+      "email": "darryl.ware @dundermifflin .com",
+      "dob": "08-11-1988"
+    },
+    {
+      "id": 10,
+      "name": "Andy Bernard",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2NjMwNDYxMV5BMl5BanBnXkFtZTgwMTk0MTY1MjE@._V1_.jpg",
+      "phone": "202-295-1243",
+      "email": "andy.cornell @dundermifflin .com",
+      "dob": "09-19-1977"
+    },
+    {
+      "id": 11,
+      "name": "Ryan Howard",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NDEyODU3OV5BMl5BanBnXkFtZTgwOTA4OTU1MjE@._V1_.jpg",
+      "phone": "202-295-1244",
+      "email": "ryanstartedthefire @dundermifflin .com",
+      "dob": "09-19-1990"
+    },
+    {
+      "id": 12,
+      "name": "Prison Mike",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3NDQ3NzA2OV5BMl5BanBnXkFtZTgwODI0NDU1MjE@._V1_.jpg",
+      "phone": "202-295-1245",
+      "email": "prison.dementors @dundermifflin .com",
+      "dob": "10-29-2001"
+    }
+]
