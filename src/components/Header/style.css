@@ -1,0 +1,12 @@
+.wrapper {
+    min-height: 100%;
+    padding-bottom: 100px;
+    background-color: #77b5f0;
+  
+  }
+
+  h3, p {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
