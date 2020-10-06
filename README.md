@@ -9,7 +9,7 @@
 This  app allows people to view my the employee directory at once so that they have quick access to  information.
 
 
-## Table of contents
+
 
 
 
