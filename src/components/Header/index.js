@@ -5,8 +5,8 @@ import "./style.css";
 function Header() {
     return (
         <header className="header">
-            <h3>Dunder Mifflin Directory</h3>
-            <p>Find who you're looking for</p>
+            <h3>Employee Directory</h3>
+            <p>Find the employee you are looking for!</p>
         </header>
     );
 }
