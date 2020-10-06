@@ -1,6 +1,6 @@
 # **Employee Directory**
 
-![](public/capture.jpg)
+![Capture](https://github.com/tarazin/user-directory-react/blob/main/public/Capture.JPG)
 
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40tarazin-pink)
