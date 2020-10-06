@@ -1,0 +1,19 @@
+.card-btn {
+
+    width: 100%;
+    position: relative;
+    border: none;
+    bottom: 10%;
+    background-color: #74cbe6;
+    font-size: 24px;
+    cursor: pointer;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    outline: none;
+    text-align: left;
+  }
+  
+  .row {
+    border: 2px;
+    border-color: black;
+    background-color: #77b5f0;
+  }
