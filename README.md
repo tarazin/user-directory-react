@@ -1,6 +1,6 @@
 # **Employee Directory**
 
-![](public/capture.jpg)
+![Capture](https://github.com/tarazin/user-directory-react/blob/main/public/Capture.JPG)
 
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40tarazin-pink)
@@ -9,7 +9,7 @@
 This  app allows people to view my the employee directory at once so that they have quick access to  information.
 
 
-## Table of contents
+
 
 
 
